@@ -14,16 +14,18 @@ body{
 }
 p{
     font-size: 20px;
+    margin-left: 150px;
 }
 .column3{
     float: left;
     width: 300px;
     padding-right: 10px;
-    margin-left: 420px;
+    margin-left: 200px;
 }
 .column4{
     float: left;
     width: 350px;
+    margin-left: 200px;
 }
 ul{
     font-size: 20px;
@@ -35,4 +37,5 @@ ul{
 .footer{
     font-size: 14px;
     text-align: center;
+    clear:left;
 }
