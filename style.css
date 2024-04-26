@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+img{
+    width: 250px;
+    margin-left: 150px;
+    margin-top: 50px;
+    float: left; 
+    margin-right:20px;
+}
+body{
+    margin-right: 150px;
+    background-color: aliceblue;
+}
+p{
+    font-size: 20px;
+}
+.column3{
+    float: left;
+    width: 300px;
+    padding-right: 10px;
+    margin-left: 420px;
+}
+.column4{
+    float: left;
+    width: 350px;
+}
+ul{
+    font-size: 20px;
+}
+.row3{
+    clear: both;
+    margin-left: 150px;
+}
+.footer{
+    font-size: 14px;
+    text-align: center;
+}
