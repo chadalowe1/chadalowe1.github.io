@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+body{
+    margin: 150px;
+}
+p{
+    font-size: 20px;
+}
+table{
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+}
+table, td, th{
+    border: 1px solid black;
+}
